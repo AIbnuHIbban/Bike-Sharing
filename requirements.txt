@@ -1,4 +1,4 @@
 pandas
 streamlit
 seaborn
-matploit
+matplotlib
